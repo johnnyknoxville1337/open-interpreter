@@ -10,13 +10,13 @@
     <a href="docs/README_IN.md"><img src="https://img.shields.io/badge/Hindi-white.svg" alt="IN doc"/></a>
     <a href="LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=AGPL&color=white&style=flat" alt="License"/></a>
     <br>
-    <br><a href="https://0ggfznkwh4j.typeform.com/to/G21i9lJ2">Get early access to the desktop app</a>‎ ‎ |‎ ‎ <a href="https://docs.openinterpreter.com/">Documentation</a><br>
+    <br><a href="https://0ggfznkwh4j.typeform.com/to/G21i9lJ2">Get early access to the desktop app</a>‎ ‎ |‎ ‎ <a href="https://docs.openinterpreter.com/">Documentation</a><br> 
 </p>
 
 > [!NOTE]
 > **Open Interpreter 1.0** is almost here.
 >
-> Please help test the [development branch](https://github.com/OpenInterpreter/open-interpreter/tree/development) and share your experience in the [Discord](https://discord.gg/Hvz9Axh84z):
+> Please help test the [development branch](https://github.com/OpenInterpreter/open-interpreter/tree/development) and share your experience in the [Discord](https://discord.gg/Hvz9Axh84z): 
 > ```
 > pip install git+https://github.com/OpenInterpreter/open-interpreter.git@development
 > interpreter --help
